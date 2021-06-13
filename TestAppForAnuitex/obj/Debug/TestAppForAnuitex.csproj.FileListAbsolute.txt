@@ -1,0 +1,7 @@
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\bin\Debug\TestAppForAnuitex.exe.config
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\bin\Debug\TestAppForAnuitex.exe
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\bin\Debug\TestAppForAnuitex.pdb
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\obj\Debug\TestAppForAnuitex.csprojAssemblyReference.cache
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\obj\Debug\TestAppForAnuitex.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\obj\Debug\TestAppForAnuitex.exe
+D:\Программирование\Проекты\TestAppForAnuitex\TestAppForAnuitex\obj\Debug\TestAppForAnuitex.pdb
